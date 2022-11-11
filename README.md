@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nandini Arora
+- 👋 Hi, I’m @Nandini281004
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me nandiniarora584@gmail.com
